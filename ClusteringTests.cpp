@@ -7,6 +7,7 @@
 #include <cassert>
 #include <iomanip>
 #include <fstream>
+#include <limits>
 
 #include "ClusteringTests.h"
 #include "Point.h"

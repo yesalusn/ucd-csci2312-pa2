@@ -52,8 +52,8 @@ int main() {
     test_cluster_copying(ec, NumIters);
     test_cluster_assignment(ec, NumIters);
     test_cluster_CAO(ec, NumIters);
-    test_cluster_SAO(ec, NumIters);
-    test_cluster_IO(ec, NumIters);
+//    test_cluster_SAO(ec, NumIters);
+//    test_cluster_IO(ec, NumIters);
 
     return 0;
 }
